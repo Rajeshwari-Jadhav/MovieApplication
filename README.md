@@ -1,1 +1,1 @@
-# Movie Application that shows popular movies currently and also relevant movies with respect to the searched word.
+# MovieFlix is a web-based movie application platform developed using HTML, CSS, and JavaScript. It utilizes the TMDB API for fetching movie data. The application enables users to browse popular movies and search for specific films.
